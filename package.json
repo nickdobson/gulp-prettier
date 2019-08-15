@@ -1,11 +1,11 @@
 {
-  "name": "gulp-prettier",
-  "description": "Create vinyl streams to pipe to prettier",
+  "name": "gulp-prettier-plus",
+  "description": "Create vinyl streams to pipe to prettier-plus",
   "version": "2.1.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhargavrpatel/gulp-prettier.git"
+    "url": "git+https://github.com/nickdobson/gulp-prettier-plus.git"
   },
   "scripts": {
     "lint": "prettier --single-quote --write **/*.js && eslint .",
@@ -17,8 +17,8 @@
   ],
   "keywords": [
     "gulp",
-    "prettier",
-    "gulp-prettier",
+    "prettier-plus",
+    "gulp-prettier-plus",
     "gulpplugin"
   ],
   "engines": {
@@ -28,7 +28,7 @@
   "license": "MIT",
   "dependencies": {
     "plugin-error": "^1.0.1",
-    "prettier": "^1.5.3",
+    "prettier-plus": "^1.18.3",
     "safe-buffer": "^5.1.2",
     "through2": "^3.0.0"
   },
