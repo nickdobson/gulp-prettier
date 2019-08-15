@@ -1,4 +1,4 @@
-# Gulp Prettier [![Build Status](https://travis-ci.org/bhargavrpatel/gulp-prettier.svg?branch=master)](https://travis-ci.org/bhargavrpatel/gulp-prettier)
+# Gulp Prettier Plus [![Build Status](https://travis-ci.org/bhargavrpatel/gulp-prettier.svg?branch=master)](https://travis-ci.org/bhargavrpatel/gulp-prettier)
 
 A [Gulp](http://gulpjs.com/) plugin which allows the users to use [Prettier](https://github.com/jlongster/prettier).
 
