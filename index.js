@@ -3,9 +3,9 @@ const path = require('path');
 const Buffer = require('safe-buffer').Buffer;
 const through = require('through2');
 const PluginError = require('plugin-error');
-const prettier = require('prettier');
+const prettier = require('prettier-plus');
 
-const PLUGIN_NAME = 'gulp-prettier';
+const PLUGIN_NAME = 'gulp-prettier-plus';
 
 module.exports = function(options) {
   options = options || {};
